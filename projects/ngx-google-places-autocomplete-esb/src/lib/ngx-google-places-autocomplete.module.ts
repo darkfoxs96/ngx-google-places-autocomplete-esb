@@ -5,6 +5,5 @@ import { GooglePlaceDirective } from "./ngx-google-places-autocomplete.directive
     declarations: [GooglePlaceDirective],
     exports: [GooglePlaceDirective]
 })
-
 export class GooglePlaceModule {
 }
